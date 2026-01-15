@@ -12,7 +12,7 @@
 - ☁️ Currently working as a Cloud Support Engineer with focus on **Azure**, **Databricks**, **Microsoft Fabric**, and **DevOps**  
 - 📊 Passionate about data engineering, automation, and artificial intelligence  
 - 🧠 Currently studying for:   
-  - **Databricks Certified Data Engineer Associate**
+  - **Databricks Certified Data Engineer Professional**
 
 ---
 
